@@ -212,6 +212,4 @@ All tunable parameters are in `config/settings.py`:
 - Experience range
 - Consulting company list
 
-## 📜 License
-
-Built for the Redrob Hackathon.
+.
