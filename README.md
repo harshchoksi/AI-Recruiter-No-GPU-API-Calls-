@@ -124,6 +124,42 @@ No network allowed during ranking. Templates reference specific candidate data (
 ### Why weighted-average JD embedding?
 The JD has different importance levels: "must have embeddings experience" matters more than "nice to have open-source contributions". Weighted embedding captures this priority structure.
 
+## 🛑 Why "CPU only, no API calls"?
+
+This project is meant to simulate a real production recruiting system, not a leaderboard-chasing benchmark. A real company ranking 200K candidates can't afford to make an LLM API call per candidate — that's too slow and too expensive at scale.
+
+If you tried to call GPT-4 or Claude once per candidate across 100,000 profiles, you'd blow past the 5-minute budget even with a fast local model, let alone a network round-trip per call.
+
+So, they're forcing participants to design a system that does the expensive reasoning once, offline (pre-computation, which is allowed to take longer) and then do something cheap and local at ranking time.
+
+### How this project satisfies it:
+- Embeddings are precomputed offline in `precompute.py`, using a small local model (`all-MiniLM-L6-v2` — 384 dimensions, runs on CPU, no API key needed). That step is allowed to take 10-15 minutes because it's outside the timed window.
+- At ranking time, the code only does things that are fast and local:
+  - Loads the already-computed `.npy` embedding files from disk.
+  - Does matrix multiplication (numpy cosine similarity) to compare candidates to the job description — no model inference, no network call.
+  - Runs a handful of rule-based scoring functions (checking titles, skills, keywords, career-history dates) — plain Python logic, not an LLM.
+  - Generates the "reasoning" text for each candidate using string templates that plug in real facts about that candidate (their company, title, years of experience, etc.) — not a call to an LLM to write the explanation.
+
+So in short: "CPU only, no API calls" is the hackathon forcing you to build a lightweight, fast, self-contained ranking system — a small local model plus deterministic logic — instead of just wrapping a call to a big AI model per candidate, which wouldn't scale or fit the time/resource budget.
+
+## ⚠️ Deployment Note
+
+I have not deployed this as it's not efficient to deploy this over free-tier web services due to RAM limitations of those deployment services. Anyone visiting this repo can access my linked profile from my resume to view the demo video, or clone the project to their local computer to try it out!
+
+## 💻 Local Setup & Cloning
+
+To run this project locally, follow these steps:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/harshchoksi/AI-Recruiter-No-GPU-API-Calls-.git
+   cd AI-Recruiter-No-GPU-API-Calls-
+   ```
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the pre-computation and ranking (see the Quick Start section above for details).**
+
 ## 📁 Project Structure
 
 ```
