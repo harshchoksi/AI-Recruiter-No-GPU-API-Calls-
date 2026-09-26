@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0079387,1,92.9420,AI Engineer at Microsoft with 6.9 yrs; has production experience with retrieval/ranking systems. Built ranking/retrieval systems at Microsoft.  Minor concern: no major concerns identified.
+CAND_0018499,2,91.9647,Senior Machine Learning Engineer at Zomato with 7.2 yrs; has production experience with retrieval/ranking systems. Built ranking/retrieval systems at Zomato.  Minor concern: no major concerns identified.
+CAND_0069905,3,91.9041,Applied ML Engineer at Sarvam AI with 6.6 yrs; has production experience with retrieval/ranking systems. Built retrieval infrastructure at Sarvam AI.  Minor concern: no major concerns identified.
+CAND_0074735,4,91.5457,Applied ML Engineer at Rephrase.ai with 5.5 yrs; has production experience with retrieval/ranking systems. Built embedding-based search at Rephrase.ai.  Minor concern: no major concerns identified.
+CAND_0027691,5,91.5342,NLP Engineer at Haptik with 6.5 yrs; has production experience with retrieval/ranking systems. Built ML pipelines at Haptik.  Minor concern: no major concerns identified.
+CAND_0046525,6,91.4840,Senior Machine Learning Engineer at Genpact AI with 6.1 yrs; has production experience with retrieval/ranking systems. Built embedding-based search at Genpact AI.  Minor concern: no major concerns identified.
+CAND_0011687,7,91.4031,Senior NLP Engineer at Niramai with 7.8 yrs; has production experience with retrieval/ranking systems. Built ranking/retrieval systems at Niramai.  Minor concern: no major concerns identified.
+CAND_0071974,8,91.3086,Senior AI Engineer at Netflix with 7.8 yrs; has production experience with retrieval/ranking systems. Built ranking/retrieval systems at Netflix.  Minor concern: no major concerns identified.
+CAND_0064326,9,91.1762,Search Engineer at Sarvam AI with 7.6 yrs; has production experience with retrieval/ranking systems. Built ranking/retrieval systems at Sarvam AI.  Minor concern: no major concerns identified.
+CAND_0050876,10,91.1136,Applied ML Engineer at Freshworks with 6.0 yrs; has production experience with retrieval/ranking systems. Built ranking/retrieval systems at Freshworks.  Minor concern: no major concerns identified.
+CAND_0081053,11,90.9864,NLP Engineer at Glance (5.4 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0075249,12,90.7762,Applied ML Engineer at Zomato (6.2 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0055905,13,90.7603,Senior Machine Learning Engineer at Flipkart (8.1 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0006418,14,90.5418,Machine Learning Engineer at Verloop.io (5.7 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0045250,15,90.0288,Applied ML Engineer at Rephrase.ai (6.6 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0064904,16,89.9272,AI Engineer at LinkedIn (4.9 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0096142,17,89.7838,Applied ML Engineer at upGrad (5.0 yrs); has production experience with retrieval/ranking systems. Gap: long notice period (120 days).
+CAND_0079284,18,89.7807,Machine Learning Engineer at Google (4.9 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0074225,19,89.7725,Machine Learning Engineer at Unacademy (4.3 yrs); has production experience with retrieval/ranking systems. Gap: long notice period (120 days).
+CAND_0052682,20,89.6748,NLP Engineer at Aganitha (6.6 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0086022,21,89.4655,Senior Applied Scientist at Sarvam AI (5.3 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0046064,22,89.3892,Senior NLP Engineer at Salesforce (8.9 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0052335,23,89.3482,Applied ML Engineer at Aganitha (6.4 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0091909,24,89.2995,Machine Learning Engineer at Rephrase.ai (6.9 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0016163,25,89.2404,Applied ML Engineer at Dream11 (6.7 yrs); has production experience with retrieval/ranking systems. Gap: long notice period (120 days).
+CAND_0098846,26,89.2180,AI Engineer at upGrad (7.6 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0081686,27,89.2048,Search Engineer at Netflix (6.0 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0080766,28,89.1898,Staff Machine Learning Engineer at Salesforce (8.8 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0013613,29,89.1651,Machine Learning Engineer at Adobe (4.7 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0070202,30,89.0784,Machine Learning Engineer at BYJU'S (5.1 yrs); has production experience with retrieval/ranking systems. Gap: no major concerns identified.
+CAND_0058575,31,89.0162,"AI Engineer with 5.8 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0032515,32,89.0152,"Machine Learning Engineer with 5.1 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0094759,33,88.9966,"Lead AI Engineer with 8.6 yrs experience; has production experience with retrieval/ranking systems, but low recruiter response rate (11%)."
+CAND_0030031,34,88.8462,"AI Engineer with 5.7 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0083307,35,88.8183,"Search Engineer with 7.8 yrs experience; has production experience with retrieval/ranking systems, but long notice period (120 days)."
+CAND_0009691,36,88.7661,"Applied ML Engineer with 6.2 yrs experience; has production experience with retrieval/ranking systems, but long notice period (120 days)."
+CAND_0075574,37,88.6761,"Machine Learning Engineer with 5.7 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0065195,38,88.6740,"Search Engineer with 5.1 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0049538,39,88.5762,"Applied ML Engineer with 5.8 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0030468,40,88.4825,"Senior Applied Scientist with 5.4 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0029367,41,88.4377,"Senior Data Scientist with 5.7 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0040887,42,88.3577,"Machine Learning Engineer with 4.7 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0037944,43,88.3504,"Senior Data Scientist with 4.9 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0043228,44,88.2390,"Applied ML Engineer with 6.8 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0027801,45,88.1646,"NLP Engineer with 7.4 yrs experience; has production experience with retrieval/ranking systems, but long notice period (120 days)."
+CAND_0070398,46,88.0958,"Machine Learning Engineer with 7.2 yrs experience; has production experience with retrieval/ranking systems, but long notice period (120 days)."
+CAND_0083879,47,88.0581,"Machine Learning Engineer with 7.1 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0030953,48,88.0129,"Search Engineer with 7.8 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0068811,49,87.7843,"Applied ML Engineer with 8.0 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0041568,50,87.7500,"Search Engineer with 5.2 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0084819,51,87.6953,"Search Engineer with 4.5 yrs experience; has production experience with retrieval/ranking systems, but long notice period (120 days)."
+CAND_0033861,52,87.6653,"Senior NLP Engineer with 8.0 yrs experience; has production experience with retrieval/ranking systems, but low recruiter response rate (16%)."
+CAND_0010257,53,87.6248,"Senior Data Scientist with 6.5 yrs experience; has production experience with retrieval/ranking systems, but long notice period (120 days)."
+CAND_0087630,54,87.5060,"AI Engineer with 7.2 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0044855,55,87.4676,"Senior Data Scientist with 6.6 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0042029,56,87.3189,"Senior Data Scientist with 6.5 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0009024,57,87.3061,"Search Engineer with 5.2 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0024620,58,87.3045,"AI Engineer with 5.9 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0058688,59,87.2336,"AI Engineer with 6.7 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0010685,60,87.0387,"NLP Engineer with 6.7 yrs experience; has production experience with retrieval/ranking systems, but no major concerns identified."
+CAND_0089552,61,86.9818,Machine Learning Engineer at Netflix (6.0 yrs); long notice period (120 days). Career fit score: 92/100.
+CAND_0052328,62,86.9092,Recommendation Systems Engineer at Amazon (6.5 yrs); no major concerns identified. Career fit score: 76/100.
+CAND_0060072,63,86.8131,Staff Machine Learning Engineer at Amazon (5.7 yrs); low recruiter response rate (10%). Career fit score: 97/100.
+CAND_0054123,64,86.8028,Applied ML Engineer at Meta (4.7 yrs); no major concerns identified. Career fit score: 94/100.
+CAND_0060054,65,86.7576,AI Engineer at Mad Street Den (6.4 yrs); no major concerns identified. Career fit score: 92/100.
+CAND_0078002,66,86.7418,Machine Learning Engineer at Meta (6.3 yrs); no major concerns identified. Career fit score: 94/100.
+CAND_0022812,67,86.5911,Applied ML Engineer at Dream11 (4.5 yrs); no major concerns identified. Career fit score: 97/100.
+CAND_0053591,68,86.4431,AI Engineer at Ola (5.3 yrs); no major concerns identified. Career fit score: 94/100.
+CAND_0042100,69,86.3178,Machine Learning Engineer at Freshworks (7.3 yrs); no major concerns identified. Career fit score: 86/100.
+CAND_0004402,70,86.3134,AI Research Engineer at Yellow.ai (6.0 yrs); no major concerns identified. Career fit score: 91/100.
+CAND_0076251,71,86.2973,Search Engineer at Haptik (7.6 yrs); no major concerns identified. Career fit score: 92/100.
+CAND_0007412,72,86.2841,Applied ML Engineer at Zoho (7.4 yrs); long notice period (120 days). Career fit score: 89/100.
+CAND_0015578,73,86.2690,AI Engineer at Zoho (5.4 yrs); no major concerns identified. Career fit score: 88/100.
+CAND_0012957,74,86.2683,Search Engineer at Razorpay (4.9 yrs); long notice period (120 days). Career fit score: 92/100.
+CAND_0047721,75,86.2496,Senior Data Scientist at Microsoft (7.0 yrs); no major concerns identified. Career fit score: 90/100.
+CAND_0096172,76,86.1365,NLP Engineer at Krutrim (5.2 yrs); no major concerns identified. Career fit score: 94/100.
+CAND_0072660,77,86.0796,Machine Learning Engineer at Unacademy (7.1 yrs); no major concerns identified. Career fit score: 92/100.
+CAND_0007411,78,85.9620,Senior Machine Learning Engineer at Amazon (8.0 yrs); low recruiter response rate (12%). Career fit score: 96/100.
+CAND_0057563,79,85.8812,NLP Engineer at Locobuzz (6.8 yrs); no major concerns identified. Career fit score: 95/100.
+CAND_0078042,80,85.8504,Applied ML Engineer at PolicyBazaar (4.7 yrs); no major concerns identified. Career fit score: 86/100.
+CAND_0005538,81,85.8480,Senior AI Engineer at Adobe (5.9 yrs); no major concerns identified. Career fit score: 98/100.
+CAND_0005649,82,85.8343,Senior Data Scientist at Sarvam AI (7.4 yrs); no major concerns identified. Career fit score: 85/100.
+CAND_0075439,83,85.7906,Machine Learning Engineer at Flipkart (4.3 yrs); no major concerns identified. Career fit score: 94/100.
+CAND_0051004,84,85.7163,Senior Data Scientist at CRED (4.7 yrs); no major concerns identified. Career fit score: 88/100.
+CAND_0036437,85,85.6163,Search Engineer at Rephrase.ai (4.8 yrs); no major concerns identified. Career fit score: 90/100.
+CAND_0015528,86,85.5516,Applied ML Engineer at Krutrim (7.4 yrs); no major concerns identified. Career fit score: 96/100.
+CAND_0094056,87,85.5331,NLP Engineer at Rephrase.ai (5.9 yrs); long notice period (120 days). Career fit score: 91/100.
+CAND_0044883,88,85.5082,AI Engineer at Mad Street Den (6.3 yrs); no major concerns identified. Career fit score: 94/100.
+CAND_0039383,89,85.5058,Applied ML Engineer at Meesho (7.1 yrs); no major concerns identified. Career fit score: 87/100.
+CAND_0020877,90,85.4629,Applied ML Engineer at CRED (5.1 yrs); no major concerns identified. Career fit score: 90/100.
+CAND_0024466,91,85.4386,Search Engineer at PharmEasy (5.2 yrs); long notice period (120 days). Career fit score: 88/100.
+CAND_0005260,92,85.3778,Senior NLP Engineer at Netflix (5.2 yrs); no major concerns identified. Career fit score: 94/100.
+CAND_0079064,93,85.2143,Senior Data Scientist at Niramai (5.2 yrs); long notice period (120 days). Career fit score: 92/100.
+CAND_0028793,94,85.1780,Search Engineer at Google (7.2 yrs); long notice period (120 days). Career fit score: 90/100.
+CAND_0061655,95,84.9288,Machine Learning Engineer at Krutrim (4.6 yrs); no major concerns identified. Career fit score: 92/100.
+CAND_0051630,96,84.8003,Machine Learning Engineer at Razorpay (6.0 yrs); no major concerns identified. Career fit score: 83/100.
+CAND_0062247,97,84.5199,AI Engineer at Google (7.3 yrs); no major concerns identified. Career fit score: 87/100.
+CAND_0095528,98,84.5048,Senior Data Scientist at Netflix (5.3 yrs); no major concerns identified. Career fit score: 85/100.
+CAND_0016659,99,84.2896,ML Engineer at Glance (4.4 yrs); no major concerns identified. Career fit score: 88/100.
+CAND_0099806,100,84.2434,AI Engineer at Mad Street Den (4.6 yrs); no major concerns identified. Career fit score: 92/100.

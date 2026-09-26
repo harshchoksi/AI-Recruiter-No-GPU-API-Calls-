@@ -1,0 +1,51 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,80.2808,Recommendation Systems Engineer at Swiggy with 6.0 yrs; has production experience with retrieval/ranking systems. Built ranking/retrieval systems at Swiggy.  Minor concern: no major concerns identified.
+CAND_0000015,2,61.1832,Software Engineer at Razorpay with 5.4 yrs; 5 yrs experience aligns with JD's 5-9 year range. Currently Software Engineer at Razorpay.  Minor concern: no major concerns identified.
+CAND_0000001,3,60.2130,Backend Engineer at Mindtree with 6.9 yrs; has production ML engineering experience. Currently Backend Engineer at Mindtree.  Minor concern: no major concerns identified.
+CAND_0000010,4,59.7611,Data Engineer at Ola with 4.6 yrs; has production ML engineering experience. Currently Data Engineer at Ola.  Minor concern: long notice period (120 days).
+CAND_0000014,5,57.1001,Frontend Engineer at Zomato with 8.4 yrs; highly responsive (80% recruiter response rate). Currently Frontend Engineer at Zomato.  Minor concern: no major concerns identified.
+CAND_0000038,6,55.9489,Java Developer at Swiggy with 6.7 yrs; 7 yrs experience aligns with JD's 5-9 year range. Currently Java Developer at Swiggy.  Minor concern: no evidence of AI/ML work in career history.
+CAND_0000043,7,55.3135,Cloud Engineer at Swiggy with 8.3 yrs; 8 yrs experience aligns with JD's 5-9 year range. Currently Cloud Engineer at Swiggy.  Minor concern: low recruiter response rate (4%).
+CAND_0000023,8,54.9139,Software Engineer at Acme Corp with 3.7 yrs; background in Manufacturing. Currently Software Engineer at Acme Corp.  Minor concern: no major concerns identified.
+CAND_0000048,9,53.8010,Mobile Developer at CRED with 9.7 yrs; background in Fintech. Currently Mobile Developer at CRED.  Minor concern: long notice period (120 days).
+CAND_0000032,10,53.7860,.NET Developer at Cognizant with 8.1 yrs; advanced in Embeddings. Currently .NET Developer at Cognizant.  Minor concern: long notice period (150 days).
+CAND_0000025,11,53.0196,Frontend Engineer at Tech Mahindra (7.3 yrs); highly responsive (74% recruiter response rate). Gap: long notice period (120 days).
+CAND_0000019,12,52.1312,Project Manager at Wayne Enterprises (6.5 yrs); has production ML engineering experience. Gap: current role (Project Manager) is not in engineering/AI.
+CAND_0000035,13,50.2369,Full Stack Developer at Globex Inc (4.3 yrs); advanced in BentoML. Gap: no evidence of AI/ML work in career history.
+CAND_0000026,14,49.9020,Graphic Designer at Initech (6.8 yrs); 7 yrs experience aligns with JD's 5-9 year range. Gap: current role (Graphic Designer) is not in engineering/AI.
+CAND_0000018,15,49.8488,Frontend Engineer at Acme Corp (6.6 yrs); 7 yrs experience aligns with JD's 5-9 year range. Gap: low recruiter response rate (16%).
+CAND_0000027,16,49.6761,DevOps Engineer at Infosys (3.9 yrs); background in IT Services. Gap: no evidence of AI/ML work in career history.
+CAND_0000016,17,49.1105,Accountant at Infosys (5.3 yrs); 5 yrs experience aligns with JD's 5-9 year range. Gap: current role (Accountant) is not in engineering/AI.
+CAND_0000007,18,48.7801,Civil Engineer at Wipro (5.5 yrs); 6 yrs experience aligns with JD's 5-9 year range. Gap: no major concerns identified.
+CAND_0000045,19,48.7629,Project Manager at Initech (12.2 yrs); background in Software. Gap: current role (Project Manager) is not in engineering/AI.
+CAND_0000036,20,48.2314,Project Manager at Initech (11.3 yrs); background in Software. Gap: current role (Project Manager) is not in engineering/AI.
+CAND_0000044,21,48.1664,Frontend Engineer at Tech Mahindra (5.7 yrs); 6 yrs experience aligns with JD's 5-9 year range. Gap: no evidence of AI/ML work in career history.
+CAND_0000039,22,48.0809,Marketing Manager at Acme Corp (3.9 yrs); background in Manufacturing. Gap: current role (Marketing Manager) is not in engineering/AI.
+CAND_0000011,23,48.0368,QA Engineer at Pied Piper (2.0 yrs); background in Software. Gap: only 2.0 yrs experience (JD targets 5-9 yrs).
+CAND_0000020,24,48.0033,Mechanical Engineer at Wipro (6.3 yrs); 6 yrs experience aligns with JD's 5-9 year range. Gap: no major concerns identified.
+CAND_0000021,25,47.5014,Project Manager at Wipro (14.5 yrs); has production ML engineering experience. Gap: current role (Project Manager) is not in engineering/AI.
+CAND_0000009,26,47.2378,Mechanical Engineer at Dunder Mifflin (11.0 yrs); has production ML engineering experience. Gap: long notice period (150 days).
+CAND_0000046,27,47.0674,Mechanical Engineer at Hooli (7.8 yrs); 8 yrs experience aligns with JD's 5-9 year range. Gap: no major concerns identified.
+CAND_0000029,28,46.0653,Business Analyst at Wipro (7.2 yrs); 7 yrs experience aligns with JD's 5-9 year range. Gap: current role (Business Analyst) is not in engineering/AI.
+CAND_0000024,29,46.0385,HR Manager at TCS (7.5 yrs); highly responsive (78% recruiter response rate). Gap: current role (HR Manager) is not in engineering/AI.
+CAND_0000030,30,45.5169,Marketing Manager at Dunder Mifflin (10.0 yrs); background in Paper Products. Gap: current role (Marketing Manager) is not in engineering/AI.
+CAND_0000033,31,45.4642,"Graphic Designer with 8.6 yrs experience; has production ML engineering experience, but current role (Graphic Designer) is not in engineering/AI."
+CAND_0000042,32,45.0535,"HR Manager with 5.0 yrs experience; 5 yrs experience aligns with JD's 5-9 year range, but current role (HR Manager) is not in engineering/AI."
+CAND_0000006,33,44.9901,"Business Analyst with 6.0 yrs experience; has production ML engineering experience, but current role (Business Analyst) is not in engineering/AI."
+CAND_0000002,34,44.4727,"Operations Manager with 12.5 yrs experience; background in IT Services, but current role (Operations Manager) is not in engineering/AI."
+CAND_0000049,35,44.4362,"Mechanical Engineer with 11.8 yrs experience; background in Conglomerate, but long notice period (120 days)."
+CAND_0000004,36,44.2780,"Marketing Manager with 3.8 yrs experience; background in Paper Products, but current role (Marketing Manager) is not in engineering/AI."
+CAND_0000037,37,44.2099,"Business Analyst with 14.3 yrs experience; has production ML engineering experience, but current role (Business Analyst) is not in engineering/AI."
+CAND_0000041,38,43.6968,"Operations Manager with 13.7 yrs experience; background in Software, but current role (Operations Manager) is not in engineering/AI."
+CAND_0000050,39,41.8473,"Business Analyst with 13.5 yrs experience; background in IT Services, but current role (Business Analyst) is not in engineering/AI."
+CAND_0000022,40,41.5155,"Mechanical Engineer with 1.1 yrs experience; background in Software, but only 1.1 yrs experience (JD targets 5-9 yrs)."
+CAND_0000034,41,41.0435,"Business Analyst with 14.5 yrs experience; has production ML engineering experience, but current role (Business Analyst) is not in engineering/AI."
+CAND_0000005,42,40.6756,"Accountant with 11.0 yrs experience; has production ML engineering experience, but current role (Accountant) is not in engineering/AI."
+CAND_0000017,43,40.5325,"Accountant with 12.3 yrs experience; background in IT Services, but current role (Accountant) is not in engineering/AI."
+CAND_0000013,44,38.6546,"Civil Engineer with 1.1 yrs experience; actively looking with short notice period, but only 1.1 yrs experience (JD targets 5-9 yrs)."
+CAND_0000008,45,38.0537,"Operations Manager with 3.6 yrs experience; background in IT Services, but current role (Operations Manager) is not in engineering/AI."
+CAND_0000047,46,36.9836,"Project Manager with 2.4 yrs experience; background in IT Services, but current role (Project Manager) is not in engineering/AI."
+CAND_0000040,47,35.4509,"Customer Support with 1.6 yrs experience; background in Manufacturing, but current role (Customer Support) is not in engineering/AI."
+CAND_0000012,48,32.5971,"Operations Manager with 1.1 yrs experience; background in Manufacturing, but current role (Operations Manager) is not in engineering/AI."
+CAND_0000028,49,32.2216,"Operations Manager with 1.1 yrs experience; background in IT Services, but current role (Operations Manager) is not in engineering/AI."
+CAND_0000003,50,30.9791,"Customer Support with 1.1 yrs experience; has production ML engineering experience, but current role (Customer Support) is not in engineering/AI."

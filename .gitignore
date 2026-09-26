@@ -1,0 +1,23 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Large artifacts (pre-computed embeddings)
+artifacts/*.npy
+artifacts/*.pkl
+artifacts/*.faiss
+
+# Dataset (too large for git)
+*.jsonl
+*.jsonl.gz
+
+# Scratch files
+scratch_*.py
+
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
